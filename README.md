@@ -55,9 +55,8 @@ I'm a passionate **Data Analyst** pursuing B.Sc. in Computer Science at Sir Para
 - Created geospatial maps and statistical models for actionable insights
 - **Impact:** Built foundational model for government policy and manufacturer decisions
 
-### 📈 [Sales Analysis & Forecastingv](https://github.com/rohannardele/Superstore-sales-analysis-forecasting)
+### 📈 [Sales Analysis & Forecasting](https://github.com/rohannardele/Superstore-sales-analysis-forecasting)
 **Technologies:** R, Multiple Linear Regression, ggplot2
-
 - Analyzed sales and customer satisfaction for an event decoration business
 - Built predictive model with **R² = 0.81** and **correlation = 0.90**
 - Modeled impact of guests, cost, and decorations on overall sales
